@@ -1,0 +1,15 @@
+C:\Users\CROSSHAIR\source\repos\MERCEDESS2\MERCEDESS2\bin\Debug\net6.0\MERCEDESS2.exe
+C:\Users\CROSSHAIR\source\repos\MERCEDESS2\MERCEDESS2\bin\Debug\net6.0\MERCEDESS2.deps.json
+C:\Users\CROSSHAIR\source\repos\MERCEDESS2\MERCEDESS2\bin\Debug\net6.0\MERCEDESS2.runtimeconfig.json
+C:\Users\CROSSHAIR\source\repos\MERCEDESS2\MERCEDESS2\bin\Debug\net6.0\MERCEDESS2.dll
+C:\Users\CROSSHAIR\source\repos\MERCEDESS2\MERCEDESS2\bin\Debug\net6.0\MERCEDESS2.pdb
+C:\Users\CROSSHAIR\source\repos\MERCEDESS2\MERCEDESS2\obj\Debug\net6.0\MERCEDESS2.csproj.AssemblyReference.cache
+C:\Users\CROSSHAIR\source\repos\MERCEDESS2\MERCEDESS2\obj\Debug\net6.0\MERCEDESS2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\CROSSHAIR\source\repos\MERCEDESS2\MERCEDESS2\obj\Debug\net6.0\MERCEDESS2.AssemblyInfoInputs.cache
+C:\Users\CROSSHAIR\source\repos\MERCEDESS2\MERCEDESS2\obj\Debug\net6.0\MERCEDESS2.AssemblyInfo.cs
+C:\Users\CROSSHAIR\source\repos\MERCEDESS2\MERCEDESS2\obj\Debug\net6.0\MERCEDESS2.csproj.CoreCompileInputs.cache
+C:\Users\CROSSHAIR\source\repos\MERCEDESS2\MERCEDESS2\obj\Debug\net6.0\MERCEDESS2.dll
+C:\Users\CROSSHAIR\source\repos\MERCEDESS2\MERCEDESS2\obj\Debug\net6.0\refint\MERCEDESS2.dll
+C:\Users\CROSSHAIR\source\repos\MERCEDESS2\MERCEDESS2\obj\Debug\net6.0\MERCEDESS2.pdb
+C:\Users\CROSSHAIR\source\repos\MERCEDESS2\MERCEDESS2\obj\Debug\net6.0\MERCEDESS2.genruntimeconfig.cache
+C:\Users\CROSSHAIR\source\repos\MERCEDESS2\MERCEDESS2\obj\Debug\net6.0\ref\MERCEDESS2.dll
